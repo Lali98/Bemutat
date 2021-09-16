@@ -8,7 +8,8 @@ body{
     background-position-y: center;
     background-attachment: fixed;
     background-size: cover;
-    width: 75%;
+    width: 70%;
+    margin: auto;
     
 }
 
