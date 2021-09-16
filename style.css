@@ -5,3 +5,8 @@
 body{
     background-color: aquamarine;
 }
+
+.cs1, .cs2, .cs3{
+    width: 33%;
+    float: left;
+}
