@@ -4,6 +4,11 @@
 
 body{
     background-image: url(background-sky-meadow-nature-clouds-mood.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
 }
 
 .cs1, .cs2, .cs3{
