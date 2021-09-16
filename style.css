@@ -37,3 +37,7 @@ h1{
     background-image: url(web-4869856_1280.jpg);
     height: 150px;
 }
+
+#bem{
+    font-weight: bold;
+}
