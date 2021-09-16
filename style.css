@@ -16,6 +16,7 @@ body{
 .cs1, .cs2, .cs3{
     width: 33%;
     float: left;
+    color: white;
 }
 
 .tartalom{
@@ -30,4 +31,9 @@ h1{
 
 #kozep{
     text-align: center;
+}
+
+.nevek{
+    background-image: url(web-4869856_1280.jpg);
+    height: 150px;
 }
