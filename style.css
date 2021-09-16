@@ -16,7 +16,7 @@ body{
 .cs1, .cs2, .cs3{
     width: 33%;
     float: left;
-    color: white;
+    /*color: white;*/
 }
 
 .tartalom{
@@ -34,10 +34,13 @@ h1{
 }
 
 .nevek{
-    background-image: url(web-4869856_1280.jpg);
+    /*background-image: url(web-4869856_1280.jpg);*/
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 10px 10px black;
     height: 150px;
 }
 
-#bem{
+/*#bem{
     font-weight: bold;
-}
+}*/
