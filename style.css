@@ -14,9 +14,10 @@ body{
 }
 
 .cs1, .cs2, .cs3{
-    width: 33%;
+    width: 30%;
     float: left;
     /*color: white;*/
+    margin-left: 19px;
 }
 
 .tartalom{
